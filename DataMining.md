@@ -19,10 +19,23 @@ Links as Votes:
   Power Iteration  
  
 Page Rank:
-Question:  
-1. converge  
-2. converge to what we want  
-3. reasonable?  
+* Question:  
+* 1、converge  
+* 2、converge to what we want  
+* 3、reasonable?  
+***
 Problems:
-1. dead ends  
-2. spider trap(endless loop)  
+* 1、dead ends  
+* 2、spider trap(endless loop) 
+***
+Link Spamming  
+* Inaccessible pages  
+* Accessible pangs  
+* Owned pages
+***
+### Combating Spam
+* Combating term spam
+* Combating link spam  
+TrustTank:Idea  
+
+
