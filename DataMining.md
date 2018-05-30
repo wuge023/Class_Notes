@@ -16,4 +16,13 @@ Links as Votes:
   Page is more important if it has more links.  
   Links from important pages count more.  
   不同页面的权值的计算
-  Power Iteration
+  Power Iteration  
+ 
+Page Rank:
+Question:  
+1. converge  
+2. converge to what we want  
+3. reasonable?  
+Problems:
+1. dead ends  
+2. spider trap(endless loop)  
